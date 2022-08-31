@@ -2,7 +2,7 @@
 //  MessageManager.swift
 //  TestTaskNatife
 //
-//  Created by Tanya Koldunova on 26.08.2022.
+//  Created by Anastasia Koldunova on 26.08.2022.
 //
 
 import Foundation
