@@ -2,7 +2,7 @@
 //  Router.swift
 //  TestTaskNatife
 //
-//  Created by Tanya Koldunova on 24.08.2022.
+//  Created by Anastasia Koldunova on 24.08.2022.
 //
 
 import Foundation
